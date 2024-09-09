@@ -23,3 +23,6 @@ touch readme.md
 
 - édition du fichier avec Notepad ou votre IDE préféré, ou avec nano ou vim (chiche)
 
+- Nous initions le repo local avec lka commande ```git init ```
+
+- On ajoute l'identification du repo avec les commandes ```git-config```
