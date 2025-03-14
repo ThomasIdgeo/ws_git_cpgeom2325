@@ -3,7 +3,7 @@
 Repository initié en local et qui sera déposé sur Github.
 
 > [!IMPORTANT]   
-Le format **Markdown** est le langage privilégié de rédaction de la documentation.
+Le format **Markdown** est le langage privilégié de rédaction de la documentation et des fichiers Readme.md (accueil d'un repository sur les plateformes git).
 
 ![Logo Git](img/langfr-330px-Git-logo.svg.png)
 
@@ -23,6 +23,11 @@ touch readme.md
 
 - édition du fichier avec Notepad ou votre IDE préféré, ou avec nano ou vim (chiche)
 
-- Nous initions le repo local avec lka commande ```git init ```
+> observer l'état initial du dossier avant l'"init" ?
+Notre dossier est un dossier ... classique !
+
+- Nous initions le repo local avec la commande ```git init ```
+
+> observer la différence
 
 - On ajoute l'identification du repo avec les commandes ```git-config```
